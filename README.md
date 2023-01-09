@@ -1,7 +1,7 @@
 # html-js-css
-Implement common functions or icons by original css <br/>.
+Implement common functions or icons by original css <br/>
 
-[Demo](http://rudy-xu.gitee.io/css-collection)
+[Demo](https://rudy-xu.github.io/html-js-css/)
 
 ## Reference Resource
 * [圆圈里面有箭头的](https://segmentfault.com/q/1010000040231710)
